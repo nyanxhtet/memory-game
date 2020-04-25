@@ -1,0 +1,46 @@
+#game div {
+  border: 1px solid black;
+  height: 200px;
+  margin: 10px;
+}
+
+#game {
+  margin: auto;
+  width: 50%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+/* 
+.flip {
+  transform: rotateY(180deg);
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color:red;
+}
+
+.green{
+  background-color: green;
+}
+ 
+.orange{
+  background-color: orange;
+}
+
+.purple{
+  background-color: purple;
+}
+
+.pink{
+  background-color: pink;
+}
+
+.hidden{
+  background-color: white;
+} */
